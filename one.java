@@ -7,7 +7,7 @@ class one{
    Scanner sc = new Scanner(System.in);
      System.out.println("Enter the number");
      int a = sc.nextInt();
-     System.out.println("number is " + a);
+     System.out.println("Your number is " + a);
    }
 
 }
